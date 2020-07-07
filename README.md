@@ -31,4 +31,6 @@ ln -s ~/.config/leftwm/themes/leftwm-theme-orange-forest ~/.config/leftwm/themes
 ```Default shortcut
 $MOD + Shift + r
 ```
+## Credits
 
+This work is based of the excelent i3 theme collection from [Stavros Grigoriou (unix121)](https://github.com/unix121)
