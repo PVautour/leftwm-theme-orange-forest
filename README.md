@@ -5,10 +5,11 @@
 - [leftwm](https://github.com/leftwm/leftwm)
 - [picom](https://github.com/yshui/picom)
 - [polybar](https://github.com/polybar/polybar)
+- [font awesome(free)](https://fontawesome.com/)
 
 ## Installation
 
-1. Install all required dependencies
+1. Install all required dependencies (required font ttf files can be added in ~/.fonts/)
 2. Make a copy of this project in your themes folder
 
 ```BASH
