@@ -5,8 +5,8 @@
 - [leftwm](https://github.com/leftwm/leftwm)
 - [picom](https://github.com/yshui/picom)
 - [polybar](https://github.com/polybar/polybar)
-- [font awesome(free)](https://fontawesome.com/)
-
+- [font awesome(free)](https://github.com/FortAwesome/Font-Awesome)
+- [source code pro font](https://github.com/adobe-fonts/source-code-pro)
 ## Installation
 
 1. Install all required dependencies (required font ttf files can be added in ~/.fonts/)
