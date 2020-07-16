@@ -1,5 +1,9 @@
 # Orange Forest
 
+## Screenshot
+
+![Empty Desktop](./images/empty-desktop.png)
+
 ## Dependencies
 
 - [leftwm](https://github.com/leftwm/leftwm)
@@ -7,6 +11,7 @@
 - [polybar](https://github.com/polybar/polybar)
 - [font awesome(free)](https://github.com/FortAwesome/Font-Awesome)
 - [source code pro font](https://github.com/adobe-fonts/source-code-pro)
+
 ## Installation
 
 1. Install all required dependencies (required font ttf files can be added in ~/.fonts/)
